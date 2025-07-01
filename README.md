@@ -9,7 +9,7 @@
 - 💬 Ask me about **React, Tailwind, JavaScript, WordPress**
 
 **<h1 align="center">Let's Connect</h1>**
-[![Email](https://img.shields.io/badge/Email-amansingh@example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:amancrafts.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-amancrafts.dev@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:amancrafts.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-a00toad/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=firefox&logoColor=white)](https://aman-toad.github.io/Portfolio/)
 
