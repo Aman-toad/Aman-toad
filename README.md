@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋;+I'm+Aman+Singh+💻;Frontend+Developer+%26+CS+Student;" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&lines=Hey+there!+👋+I'm+Aman+Singh.;I+love+building+web+apps.;Let's+connect+and+code+together!+🚀" alt="Typing SVG" />
+</p>
+
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
